@@ -1,0 +1,10 @@
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
